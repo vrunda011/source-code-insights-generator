@@ -2,6 +2,8 @@
 
 Summaries a source code file.
 
+![sample_image](sample_image.png)
+
 ## How to run?
 
 ### Install dependencies
