@@ -1,6 +1,6 @@
 # Source code summarizer using tree-sitter
 
-Summaries a source code file.
+Summarizes a source code file.
 
 ![sample_image](sample_image.png)
 
